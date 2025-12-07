@@ -1,0 +1,5 @@
+{
+  "name": "Oleum Dashboard",
+  "description": "Real-time supply chain visualization for Oleum olive oil operations, featuring live trip tracking and production metrics.",
+  "requestFramePermissions": []
+}
